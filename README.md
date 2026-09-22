@@ -129,4 +129,4 @@ docker compose up
 
 ---
 
-*Built by [Manish Thakur](https://github.com/manishthakur2)*
+*Built by [Munish Kumar](https://github.com/manishthakur2)*
